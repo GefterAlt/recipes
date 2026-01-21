@@ -32,6 +32,15 @@ p {
     font-size: large;
 }
 
+ul li {
+    font-weight: bold;
+}
+
 li {
     background-color: lightgray;
+}
+
+img {
+    width: 400;
+    height: fit-content;
 }
